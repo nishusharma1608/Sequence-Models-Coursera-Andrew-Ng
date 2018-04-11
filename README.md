@@ -4,3 +4,5 @@
 TODO : Backpropagation for RNN and LSTM
 
 #### 2. Dinosaur Island - Character-Level Language Modeling
+
+#### 3. Jazz Improvisation Using LSTM
